@@ -3,6 +3,8 @@
 /* eslint-disable */
 
 export enum IconNames {
-  'arrowForward' = 'arrowForward',
-  'invoice' = 'invoice'
+  'bar-outline' = 'bar-outline',
+  'bar' = 'bar',
+  'home-outline' = 'home-outline',
+  'home' = 'home'
 }
