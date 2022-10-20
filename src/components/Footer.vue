@@ -18,7 +18,8 @@
 
 <style scoped>
 .router-link-active.router-link-exact-active{
-    @apply bg-primary
+   background: linear-gradient(180deg, #549994 0%, #408782 100%);
+   /* background-image: linear-gradient( rgba(90,92,106,1) 0%, rgba(32,45,58,1) 81.3% ); */
 }
 .router-link-active.router-link-exact-active > i{
     @apply text-white
