@@ -2,6 +2,7 @@
 	<div>
 		This is the default layout
 		<slot />
+		<Footer />
 	</div>
 </template>
 
